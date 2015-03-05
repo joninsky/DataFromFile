@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14C109" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="AOOs" representedClassName="AOOs" syncable="YES">
+        <attribute name="isComplete" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phrase" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="tasks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tasks" inverseName="aoo" inverseEntity="Tasks" syncable="YES"/>
+    </entity>
+    <entity name="Decision" syncable="YES">
+        <attribute name="isSEL" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="References" syncable="YES">
+        <attribute name="dateAdded" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="isFAAReference" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isFavorite" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isVerified" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="phrase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subPhrase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="typeOfFile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="votes" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <relationship name="tasks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tasks" inverseName="references" inverseEntity="Tasks" syncable="YES"/>
+    </entity>
+    <entity name="SubTaskDescription" representedClassName="SubTaskDescription" syncable="YES">
+        <attribute name="isClutter" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="phrase" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="taskdescription" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="TaskDescription" inverseName="subTaskDescription" inverseEntity="TaskDescription" syncable="YES"/>
+    </entity>
+    <entity name="TaskDescription" representedClassName="TaskDescription" syncable="YES">
+        <attribute name="isClutter" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="phrase" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="subTaskDescription" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SubTaskDescription" inverseName="taskdescription" inverseEntity="SubTaskDescription" syncable="YES"/>
+        <relationship name="tasks" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Tasks" inverseName="tasksDescription" inverseEntity="Tasks" syncable="YES"/>
+    </entity>
+    <entity name="Tasks" representedClassName="Tasks" syncable="YES">
+        <attribute name="isComplete" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isSES" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="objective" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phrase" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="aoo" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="AOOs" inverseName="tasks" inverseEntity="AOOs" syncable="YES"/>
+        <relationship name="references" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="References" inverseName="tasks" inverseEntity="References" syncable="YES"/>
+        <relationship name="tasksDescription" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="TaskDescription" inverseName="tasks" inverseEntity="TaskDescription" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AOOs" positionX="-261" positionY="-90" width="128" height="103"/>
+        <element name="References" positionX="-261" positionY="117" width="128" height="195"/>
+        <element name="SubTaskDescription" positionX="342" positionY="-99" width="128" height="90"/>
+        <element name="TaskDescription" positionX="124" positionY="-100" width="128" height="105"/>
+        <element name="Tasks" positionX="-72" positionY="-117" width="128" height="163"/>
+        <element name="Decision" positionX="-54" positionY="36" width="128" height="60"/>
+    </elements>
+</model>

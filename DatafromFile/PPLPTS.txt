@@ -1,0 +1,811 @@
+
+I. Preflight Preparation
+note
+The examiner shall develop a scenario based on real time weather to evaluate Tasks C and D.
+task
+Task A: Certificates and Documents (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to certificates and documents by:
+disc
+1. Explaining —
+subdisc
+a. private pilot certificate privileges, limitations, and recent flight experience requirements.
+b. medical certificate class and duration.
+c. pilot logbook or flight records.
+disc
+2. Locating and explaining —
+subdisc
+a. airworthiness and registration certificates.
+b. operating limitations, placards, instrument markings, and POH/AFM.
+c. weight and balance data and equipment list.
+disc
+enddisc
+task
+Task B: Airworthiness Requirements (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to airworthiness requirements by:
+disc
+1. Explaining—
+subdisc
+a. required instruments and equipment for day/night VFR.
+b. procedures and limitations for determining airworthiness of the airplane with inoperative instruments and equipment with and without an MEL.
+c. requirements and procedures for obtaining a special flight permit.FAA-S-8081-14B 32
+disc
+2. Locating and explaining—
+subdisc
+a. airworthiness directives.
+b. compliance records.
+c. maintenance/inspection requirements.
+d. appropriate record keeping.
+disc
+enddisc
+task
+Task C: Weather Information (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to weather information by analyzing weather reports, charts, and forecasts from various sources with emphasis on—
+subdisc
+a. METAR, TAF, and FA.
+b. surface analysis chart.
+c. radar summary chart.
+d. winds and temperature aloft chart.
+e. significant weather prognostic charts.
+f. convective outlook chart.
+g. AWOS, ASOS, and ATIS reports.
+h. SIGMETs and AIRMETs.
+i. PIREPs.
+j. windshear reports.
+k. icing and freezing level information.
+disc
+2. Makes a competent “go/no-go” decision based on available weather information.
+enddisc
+task
+Task D: Cross-Country Flight Planning (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to cross-country flight planning by presenting and explaining a pre-planned VFR cross-country flight, as previously assigned by the examiner. On the day of the practical test, the final flight plan shall be to the first fuel stop, based on maximum allowable passengers, baggage, and/or cargo loads using real-time weather.
+2. Uses appropriate and current aeronautical charts.33 FAA-S-8081-14B
+3. Properly identifies airspace, obstructions, and terrain features.
+4. Selects easily identifiable en route checkpoints.
+5. Selects most favorable altitudes considering weather conditions and equipment capabilities.
+6. Computes headings, flight time, and fuel requirements.
+7. Selects appropriate navigation system/facilities and communication frequencies.
+8. Applies pertinent information from AFD, NOTAMs, and NOTAMS relative to airport, runway and taxiway closures, and other flight publications.
+9. Completes a navigation log and simulates filing a VFR flight plan.
+enddisc
+task
+Task E: National Airspace System (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to the National Airspace System by explaining:
+disc
+1. Basic VFR weather minimums—for all classes of airspace.
+2. Airspace classes—their operating rules, pilot certification, and airplane equipment requirements for the following—
+subdisc
+a. Class A.
+b. Class B.
+c. Class C.
+d. Class D.
+e. Class E.
+f. Class G.
+disc
+3. Special use, special flight rules areas, and other airspace areas.
+enddisc
+task
+Task F: Performance and Limitations (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to performance and limitations by explaining the use of charts, tables, and data to determine performance and the adverse effects of exceeding limitations.
+2. Computes weight and balance. Determines the computed weight and center of gravity are within the airplane’s FAA-S-8081-14B 34 operating limitations and if the weight and center of gravity will remain within limits during all phases of flight.
+3. Demonstrates use of the appropriate manufacturer’s performance charts, tables, and data.
+4. Describes the effects of atmospheric conditions on the airplane’s performance.
+enddisc
+task
+Task G: Operation of Systems (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to the operation of systems on the airplane provided for the flight test by explaining at least three of the following systems:
+disc
+1. Primary flight controls and trim.
+2. Flaps, leading edge devices, and spoilers.
+3. Water rudders (ASES).
+4. Powerplant and propeller.
+5. Landing gear.
+6. Fuel, oil, and hydraulic.
+7. Electrical.
+8. Avionics.
+9. Pitot-static, vacuum/pressure and associated flight instruments.
+10. Environmental.
+11. Deicing and anti-icing.
+enddisc
+task
+Task H: Water and Seaplane Characteristics (ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to water and seaplane characteristics by explaining:
+ses
+disc
+1. The characteristics of a water surface as affected by features, such as—
+subdisc
+a. size and location.
+b. protected and unprotected areas.
+c. surface wind.
+d. direction and strength of water current.
+e. floating and partially submerged debris.
+f. sandbars, islands, and shoals.
+g. vessel traffic and wakes.
+h. other features peculiar to the area.35 FAA-S-8081-14B
+disc
+2. Float and hull construction, and their effect on seaplane performance.
+3. Causes of porpoising and skipping, and the pilot action required to prevent or correct these occurrences.
+enddisc
+task
+Task I: Seaplane BASES, Maritime Rules, and Aids to Marine Navigation (ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to seaplane bases, maritime rules, and aids to marine navigation by explaining:
+ses
+disc
+1. How to locate and identify seaplane bases on charts or in directories.
+2. Operating restrictions at various bases.
+3. Right-of-way, steering, and sailing rules pertinent to seaplane operation.
+4. Marine navigation aids, such as buoys, beacons, lights, and sound signals.
+enddisc
+task
+Task J: Aeromedical Factors (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to aeromedical factors by explaining:
+disc
+1. The symptoms, causes, effects, and corrective actions of at least three of the following—
+subdisc
+a. hypoxia.
+b. hyperventilation.
+c. middle ear and sinus problems.
+d. spatial disorientation.
+e. motion sickness.
+f. carbon monoxide poisoning.
+g. stress and fatigue.
+h. dehydration.
+disc
+2. The effects of alcohol, drugs, and over-the-counter medications.
+3. The effects of excess nitrogen during scuba dives upon a pilot or passenger in flight.
+enddisc
+
+II. Preflight Procedures
+task
+Task A: Preflight Inspection (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to preflight inspection. This shall include which items must be inspected, the reasons for checking each item, and how to detect possible defects.
+2. Inspects the airplane with reference to an appropriate checklist.
+3. Verifies the airplane is in condition for safe flight.
+enddisc
+task
+Task B: Cockpit Management (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to cockpit management procedures.
+2. Ensures all loose items in the cockpit and cabin are secured.
+3. Organizes material and equipment in an efficient manner so they are readily available.
+4. Briefs occupants on the use of safety belts, shoulder harnesses, doors, and emergency procedures.
+enddisc
+task
+Task C: Engine Starting (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to recommended engine starting procedures. This shall include the use of an external power source, hand propping safety, and starting under various atmospheric conditions.
+2. Positions the airplane properly considering structures, surface conditions, other aircraft, and the safety of nearby persons and property.
+3. Utilizes the appropriate checklist for starting procedure.
+enddisc
+task
+Task D: Taxiing (ASEL)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to safe taxi procedures at towered and non-towered airports.
+2. Performs a brake check immediately after the airplane begins moving.
+3. Positions the flight controls properly for the existing wind conditions.
+4. Controls direction and speed without excessive use of brakes.
+5. Exhibits procedures for steering, maneuvering, maintaining taxiway, runway position, and situational awareness to avoid runway incursions.
+6. Exhibits proper positioning of the aircraft relative to hold lines.
+7. Exhibits procedures to insure clearances/instructions are received and recorded/read back correctly.
+8. Exhibits situational awareness/taxi procedures in the event the aircraft is on a taxiway that is between parallel runways.
+9. Uses a taxi chart during taxi.
+10. Complies with airport/taxiway markings, signals, ATC clearances and instructions.
+11. Utilizes procedures for eliminating pilot distractions.
+12. Taxiing to avoid other aircraft/vehicles and hazards
+enddisc
+task
+Task E: Taxiing and Sailing (ASES)
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to water taxi and sailing procedures.
+2. Positions the flight controls properly for the existing wind conditions.
+3. Plans and follows the most favorable course while taxiing or sailing. Considers wind, water current, water conditions, and maritime regulations, as appropriate.
+4. Uses the appropriate idle, plow, or step taxi technique.
+5. Uses flight controls, flaps, doors, water rudder, and power correctly so as to follow the desired course while sailing.
+6. Prevents and corrects for porpoising and skipping.
+7. Avoids other aircraft, vessels, and hazards.FAA-S-8081-14B 38
+8. Complies with seaplane base signs, signals, and clearances.
+enddisc
+task
+Task F: Runway Incursion Avoidance (ASEL and ASES)
+To determine that the applicant exhibits knowledge of the elements of runway incursion avoidance by:
+disc
+1. Exhibiting distinct challenges and requirements during taxi operations not found in other phases of flight operations.
+2. Exhibiting procedures for appropriate cockpit activities during taxiing including taxi route planning, briefing the location of HOT SPOTS, communicating and coordinating with ATC.
+3. Exhibiting procedures for steering, maneuvering, maintaining taxiway, runway position, and situational awareness.
+4. Knowing the relevance/importance of hold lines.
+5. Exhibiting procedures to ensure the pilot maintains strict focus to the movement of the aircraft and ATC communications, including the elimination of all distractive activities (i.e. cell phone, texting, conversations with passengers) during aircraft taxi, takeoff and climb out to cruise altitude.
+6. Utilizing procedures for holding the pilot’s workload to a minimum during taxi operations.
+7. Utilizing taxi operation planning procedures, such as recording taxi instructions, reading back taxi clearances, and reviewing taxi routes on the airport diagram.
+8. Utilizing procedures to insure that clearance or instructions that are actually received are adhered to rather than the ones expected to be received.
+9. Utilizing procedures to maintain/enhance situational awareness when conducting taxi operations in relation to other aircraft operations in the vicinity as well as to other vehicles moving on the airport.
+10. Exhibiting procedures for briefing if a landing rollout to a taxiway exit will place the pilot in close proximity to another runway which can result in a runway incursion.
+11. Conducting appropriate after landing/taxi procedures in the event the aircraft is on a taxiway that is between parallel runways.
+12. Knowing specific procedures for operations at an airport with an operating air traffic control tower, with emphasis on  9 FAA-S-8081-14B ATC communications and runway entry/crossing authorizations.
+13. Utilizing ATC communications and pilot actions before takeoff, before landing, and after landing at towered andnon-towered airports.
+14. Knowing procedures unique to night operations.
+15. Knowing operations at non-towered airports.
+16. Knowing the use of aircraft exterior lighting.
+17. Knowing the hazards of Low visibility operations
+enddisc
+task
+Task G: Before Takeoff Check (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to the before takeoff check. This shall include the reasons for checking each item and how to detect malfunctions.
+2. Positions the airplane properly considering other aircraft/vessels, wind, and surface conditions.
+3. Divides attention inside and outside the cockpit.
+4. Ensures that engine temperature(s) and pressure(s) are suitable for runup and takeoff.
+5. Accomplishes the before takeoff checklist and ensures the airplane is in safe operating condition as recommended by the manufacturer.
+6. Reviews takeoff performance, such as airspeeds, takeoff distances, departure, and emergency procedures.
+7. Avoids runway incursions and ensures no conflict with traffic prior to taxiing into takeoff position.
+enddisc
+
+III. Airport and Seaplane Base Operations
+task
+Task A: Radio Communications and ATC Light Signals (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to radio communications and ATC light signals.
+2. Selects appropriate frequencies.
+3. Transmits using AIM specified phraseology and procedures.
+4. Acknowledges radio communications and complies with instructions.
+enddisc
+task
+Task B: Traffic Patterns (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to traffic patterns. This shall include procedures at airports with and without operating control towers, prevention of runway incursions, collision avoidance, wake turbulence avoidance, and wind shear.
+2. Properly identifies and interprets airport/seaplane base runways, taxiway signs, markings, and lighting.
+3. Complies with proper traffic pattern procedures.
+4. Maintains proper spacing from other aircraft.
+5. Corrects for wind drift to maintain the proper ground track.
+6. Maintains orientation with the runway/landing area in use.
+7. Maintains traffic pattern altitude, ±100 feet, and the appropriate airspeed, ±10 knots.
+enddisc
+task
+Task C: Airport/Seaplane Base, Runway, and Taxiway Signs, Markings, and Lighting (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to airport/seaplane base, runway, and taxiway operations with emphasis on runway incursion avoidance.
+2. Properly identifies and interprets airport/seaplane base, runway, and taxiway signs, markings, and lighting, with emphasis on runway incursion avoidance.
+enddisc
+
+IV. Takeoffs, Landings, and Go-Arounds
+task
+Task A: Normal and Crosswind Takeoff and Climb (ASEL and ASES)
+note
+If a crosswind condition does not exist, the applicant’s knowledge of crosswind elements shall be evaluated through oral testing.
+To determine that the applicant:
+disc
+1. Utilizes procedures before taxiing onto the runway or takeoff area to ensure runway incursion avoidance. Verify ATC clearance/no aircraft on final at non-towered airports before entering the runway, and ensure that the aircraft is on the correct takeoff runway.
+2. Exhibits satisfactory knowledge of the elements related to a normal and crosswind takeoff, climb operations, and rejected takeoff procedures.
+3. Ascertains wind direction with or without visible wind direction indicators.
+4. Calculates/determines if crosswind component is above his or her ability or that of the aircraft’s capability.
+5. Positions the flight controls for the existing wind conditions.
+6. Clears the area; taxies into the takeoff position and aligns the airplane on the runway center/takeoff path.
+7. Retracts the water rudders, as appropriate (ASES), and advances the throttle smoothly to takeoff power.
+8. Establishes and maintains the most efficient planing/lift-off attitude and corrects for porpoising and skipping (ASES).
+9. Rotates and lifts off at the recommended airspeed and accelerates to VY.
+10. Establishes a pitch attitude that will maintain VY +10/-5 knots.
+11. Retracts the landing gear, if appropriate, and flaps after a positive rate of climb is established.
+12. Maintains takeoff power and VY +10/-5 knots to a safe maneuvering altitude.
+13. Maintains directional control and proper wind-drift correction throughout the takeoff and climb.
+14. Complies with responsible environmental practices, including noise abatement procedures.
+15. Completes the appropriate checklist.
+enddisc
+task
+Task B: Normal and Crosswind Approach and Landing
+note
+If a crosswind condition does not exist, the applicant’s knowledge of crosswind elements shall be evaluated through oral testing.
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to a normal and crosswind approach and landing with emphasis on proper use and coordination of flight controls.
+2. Adequately surveys the intended landing area (ASES).
+3. Considers the wind conditions, landing surface, obstructions, and selects a suitable touchdown point.
+4. Establishes the recommended approach and landing configuration and airspeed, and adjusts pitch attitude and power as required.
+5. Maintains a stabilized approach and recommended airspeed, or in its absence, not more than 1.3 VSO, +10/-5 knots, with wind gust factor applied.
+6. Makes smooth, timely, and correct control application during the round out and touchdown.
+7. Contacts the water at the proper pitch attitude (ASES).
+8. Touches down smoothly at approximate stalling speed (ASEL).
+9. Touches down within the available runway or water landing area, within 400 feet beyond a specified point with no drift, and with the airplane’s longitudinal axis aligned with and over the runway center/landing path.
+10. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+11. Executes a timely go around decision when the approach cannot be made within the tolerances specified above.
+12. Utilizes after landing runway incursion avoidance procedures.
+13. Completes the appropriate checklist.
+enddisc
+task
+Task C: Soft-Field Takeoff and Climb (ASEL)
+To determine that the applicant:
+disc
+1. Utilizes procedures before taxiing onto the runway or takeoff area to ensure runway incursion avoidance. Verify ATC clearance/no aircraft on final at non-towered airports  AA-S-8081-14B 44 before entering the runway, and ensure that the aircraft is on the correct takeoff runway.
+2. Exhibits satisfactory knowledge of the elements related to a soft-field takeoff and climb.
+3. Positions the flight controls for existing wind conditions and to maximize lift as quickly as possible.
+4. Clears the area; taxies onto the takeoff surface at a speed consistent with safety and aligns the airplane without stopping while advancing the throttle smoothly to takeoff power.
+5. Establishes and maintains a pitch attitude that will transfer the weight of the airplane from the wheels to the wings as rapidly as possible.
+6. Rotates and lifts off at the lowest possible airspeed and remains in ground effect while accelerating to VX or VY, as appropriate.
+7. Establishes a pitch attitude for VX or VY, as appropriate, and maintains selected airspeed +10/-5 knots during the climb.
+8. Retracts the landing gear, if appropriate, and flaps after clear of any obstacles or as recommended by the manufacturer.
+9. Maintains takeoff power and VX or VY +10/-5 knots to a safe maneuvering altitude.
+10. Maintains directional control and proper wind-drift correction throughout the takeoff and climb.
+11. Completes the appropriate checklist.
+enddisc
+task
+Task D: Soft-Field Approach and Landing (ASEL)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to a soft-field approach and landing.
+2. Considers the wind conditions, landing surface and obstructions, and selects the most suitable touchdown area.
+3. Establishes the recommended approach and landing configuration, and airspeed; adjusts pitch attitude and power as required.
+4. Maintains a stabilized approach and recommended airspeed, or in its absence not more than 1.3 VSO, +10/-5 knots, with wind gust factor applied.
+5. Makes smooth, timely, and correct control application during the round out and touchdown.
+6. Touches down softly with no drift, and with the airplane’s longitudinal axis aligned with the runway/landing path.45 FAA-S-8081-14B
+7. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+8. Maintains proper position of the flight controls and sufficient speed to taxi on the soft surface.
+9. Utilizes after landing runway incursion avoidance procedures.
+10. Completes appropriate checklist.
+enddisc
+task
+Task E: Short-Field Takeoff (Confined Area—ASES) and Maximum Performance Climb (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Utilizes procedures before taxiing onto the runway or takeoff area to ensure runway incursion avoidance. Verify ATC clearance/no aircraft on final at non-towered airports before entering the runway, and ensure that the aircraft is on the correct takeoff runway.
+2. Exhibits satisfactory knowledge of the elements related to a short-field (confined area ASES) takeoff and maximum performance climb.
+3. Positions the flight controls for the existing wind conditions; sets the flaps as recommended.
+4. Clears the area; taxies into takeoff position utilizing maximum available takeoff area and aligns the airplane on the runway center/takeoff path.
+5. Selects an appropriate takeoff path for the existing conditions (ASES).
+6. Applies brakes (if appropriate), while advancing the throttle smoothly to takeoff power.
+7. Establishes and maintains the most efficient planing/lift-off attitude and corrects for porpoising and skipping (ASES).
+8. Rotates and lifts off at the recommended airspeed, and accelerates to the recommended obstacle clearance airspeed or VX.
+9. Establishes a pitch attitude that will maintain the recommended obstacle clearance airspeed, or VX, +10/-5 knots, until the obstacle is cleared, or until the airplane is 50 feet above the surface.
+10. After clearing the obstacle, establishes the pitch attitude for VY, accelerates to VY, and maintains VY, +10/-5 knots, during the climb.
+11. Retracts the landing gear, if appropriate, and flaps after clear of any obstacles or as recommended by manufacturer.FAA-S-8081-14B 46
+12. Maintains takeoff power and VY +10/-5 to a safe maneuvering altitude.
+13. Maintains directional control and proper wind-drift correction throughout the takeoff and climb.
+14. Completes the appropriate checklist.
+enddisc
+task
+Task F: Short-Field Approach (Confined Area—ASES) and Landing (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to a short-field (confined area ASES) approach and landing.
+2. Adequately surveys the intended landing area (ASES).
+3. Considers the wind conditions, landing surface, obstructions, and selects the most suitable touchdown point.
+4. Establishes the recommended approach and landing configuration and airspeed; adjusts pitch attitude and power as required.
+5. Maintains a stabilized approach and recommended approach airspeed, or in its absence not more than 1.3 VSO, +10/-5 knots, with wind gust factor applied.
+6. Makes smooth, timely, and correct control application during the round out and touchdown.
+7. Selects the proper landing path, contacts the water at the minimum safe airspeed with the proper pitch attitude for the surface conditions (ASES).
+8. Touches down smoothly at minimum control airspeed (ASEL).
+9. Touches down within the available runway or water landing area, at or within 200 feet beyond a specified point, with no side drift, minimum float, and with the airplane’s longitudinal axis aligned with and over the runway center/landing path.
+10. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+11. Applies brakes (ASEL), or elevator control (ASES), as necessary, to stop in the shortest distance consistent with safety.
+12. Utilizes after landing runway incursion avoidance procedures.
+13. Completes appropriate checklist.
+enddisc
+task
+Task G: Glassy Water Takeoff and Climb (ASES)
+note
+If a glassy water condition does not exist, the applicant shall be evaluated by simulating the Task.
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to glassy water takeoff and climb.
+2. Positions the flight controls and flaps for the existing conditions.
+3. Clears the area; selects an appropriate takeoff path considering surface hazards and/or vessels and surface conditions.
+4. Retracts the water rudders as appropriate; advances the throttle smoothly to takeoff power.
+5. Establishes and maintains an appropriate planing attitude, directional control, and corrects for porpoising, skipping, and increases in water drag.
+6. Utilizes appropriate techniques to lift seaplane from the water considering surface conditions.
+7. Establishes proper attitude/airspeed, and accelerates to VY, +10/-5 knots during the climb.
+8. Retracts the landing gear, if appropriate, and flaps after a positive rate of climb is established.
+9. Maintains takeoff power VY +10/-5 to a safe maneuvering altitude.
+10. Maintains directional control and proper wind-drift correction throughout takeoff and climb.
+11. Completes the appropriate checklist.
+enddisc
+task
+Task H: Glassy Water Approach and Landing (ASES)
+note
+If a glassy water condition does not exist, the applicant shall be evaluated by simulating the Task.
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to glassy water approach and landing.
+2. Adequately surveys the intended landing area.
+3. Considers the wind conditions, water depth, hazards, surrounding terrain, and other watercraft.
+4. Selects the most suitable approach path and touchdown area.FAA-S-8081-14B 48
+5. Establishes the recommended approach and landing configuration and airspeed, and adjusts pitch attitude and power as required.
+6. Maintains a stabilized approach and the recommended approach airspeed, +10/-5 knots and maintains a touchdown pitch attitude and descent rate from the last altitude reference until touchdown.
+7. Makes smooth, timely, and correct power and control adjustments to maintain proper pitch attitude and rate of descent to touchdown.
+8. Contacts the water in the proper pitch attitude, and slows to idle taxi speed.
+9. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+10. Completes the appropriate checklist.
+enddisc
+task
+Task I: Rough Water Takeoff and Climb (ASES)
+note
+If a rough water condition does not exist, the applicant shall be evaluated by simulating the Task.
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to rough water takeoff and climb.
+2. Positions the flight controls and flaps for the existing conditions.
+3. Clears the area; selects an appropriate takeoff path considering wind, swells, surface hazards and/or vessels.
+4. Retracts the water rudders as appropriate; advances the throttle smoothly to takeoff power.
+5. Establishes and maintains an appropriate planing attitude, directional control, and corrects for porpoising, skipping, or excessive bouncing.
+6. Lifts off at minimum airspeed and accelerates to VY, +10/-5 knots before leaving ground effect.
+7. Retracts the landing gear, if appropriate, and flaps after a positive rate of climb is established.
+8. Maintains takeoff power VY +10/-5 to a safe maneuvering altitude.
+9. Maintains directional control and proper wind-drift correction throughout takeoff and climb.
+10. Completes the appropriate checklist.
+enddisc
+task
+Task J: Rough Water Approach and Landing (ASES)
+note
+If a rough water condition does not exist, the applicant shall be evaluated by simulating the Task.
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to rough water approach and landing.
+2. Adequately surveys the intended landing area.
+3. Considers the wind conditions, water, depth, hazards, surrounding terrain, and other watercraft.
+4. Selects the most suitable approach path and touchdown area.
+5. Establishes the recommended approach and landing configuration and airspeed, and adjusts pitch attitude and power as required.
+6. Maintains a stabilized approach and the recommended approach airspeed, or in its absence not more than 1.3 VSO +10/-5 knots with wind gust factor applied.
+7. Makes smooth, timely, and correct power and control application during the round out and touch down.
+8. Contacts the water in the proper pitch attitude, and at the proper airspeed, considering the type of rough water.
+9. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+10. Completes the appropriate checklist.
+enddisc
+task
+Task K: Forward Slip to a Landing (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to forward slip to a landing.
+2. Considers the wind conditions, landing surface and obstructions, and selects the most suitable touchdown point.
+3. Establishes the slipping attitude at the point from which a landing can be made using the recommended approach and landing configuration and airspeed; adjusts pitch attitude and power as required.
+4. Maintains a ground track aligned with the runway center/landing path and an airspeed, which results in minimum float during the round out.FAA-S-8081-14B 50
+5. Makes smooth, timely, and correct control application during the recovery from the slip, the round out, and the touchdown.
+6. Touches down within 400 feet beyond a specified point with no drift, and with the airplane’s longitudinal axis aligned with and over the runway center/landing path.
+7. Maintains crosswind correction and directional control throughout the approach and landing sequence.
+8. Completes the appropriate checklist.
+enddisc
+task
+Task L: Go-Around/Rejected Landing (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to a go around/rejected landing with emphasis on factors that contribute to landing conditions that may require a go around.
+2. Makes a timely decision to discontinue the approach to landing.
+3. Applies takeoff power immediately and transitions to climb pitch attitude for VX or VY as appropriate +10/-5 knots and/or appropriate pitch attitude.
+4. Retracts the flaps, as appropriate.
+5. Retracts the landing gear, if appropriate, after a positive rate of climb is established.
+6. Maneuvers to the side of the runway/landing area to clear and avoid conflicting traffic.
+7. Maintains takeoff power VY +10/-5 to a safe maneuvering altitude.
+8. Maintains directional control and proper wind-drift correction throughout the climb.
+9. Completes the appropriate checklist
+enddisc
+
+V. Performance Maneuver
+task
+Task A: Steep Turns (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to steep turns.
+2. Establishes the manufacturer’s recommended airspeed or if one is not stated, a safe airspeed not to exceed VA.
+3. Rolls into a coordinated 360° turn; maintains a 45° bank.
+4. Performs the task in the opposite direction, as specified by the examiner.
+5. Divides attention between airplane control and orientation.
+6. Maintains the entry altitude, ±100 feet, airspeed, ±10 knots, bank, ±5°; and rolls out on the entry heading, ±10°.
+enddisc
+
+VI. Ground Reference Maneuver
+note
+The examiner shall select at least one Task.
+task
+Task A: Rectangular Course (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to a rectangular course.
+2. Selects a suitable reference area.
+3. Plans the maneuver so as to enter a left or right pattern, 600 to 1,000 feet AGL at an appropriate distance from the selected reference area, 45° to the downwind leg.
+4. Applies adequate wind-drift correction during straight-and turning flight to maintain a constant ground track around the rectangular reference area.
+5. Divides attention between airplane control and the ground track while maintaining coordinated flight.
+6. Maintains altitude, ±100 feet; maintains airspeed, ±10 knots.
+enddisc
+task
+Task B: S-Turns (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to S-turns.
+2. Selects a suitable ground reference line.
+3. Plans the maneuver so as to enter at 600 to 1,000 feet AGL, perpendicular to the selected reference line.
+4. Applies adequate wind-drift correction to track a constant radius turn on each side of the selected reference line.
+5. Reverses the direction of turn directly over the selected reference line.
+6. Divides attention between airplane control and the ground track while maintaining coordinated flight.
+7. Maintains altitude, ±100 feet; maintains airspeed, ±10 knots.
+enddisc
+task
+Task C: Turns Around a Point (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to turns around a point.
+2. Selects a suitable ground reference point.
+3. Plans the maneuver so as to enter left or right at 600 to 1,000 feet AGL, at an appropriate distance from the reference point.
+4. Applies adequate wind-drift correction to track a constant radius turn around the selected reference point.
+5. Divides attention between airplane control and the ground track while maintaining coordinated flight.
+6. Maintains altitude, ±100 feet; maintains airspeed, ±10 knots.
+enddisc
+
+VII. Navigation
+task
+Task A: Pilotage and Dead Reckoning (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to pilotage and dead reckoning.
+2. Follows the preplanned course by reference to landmarks.
+3. Identifies landmarks by relating surface features to chart symbols.
+4. Navigates by means of precomputed headings, groundspeeds, and elapsed time.
+5. Demonstrates use of magnetic direction indicator in navigation, to include turns to new headings.
+6. Corrects for and records the differences between preflight groundspeed, fuel consumption, and heading calculations and those determined en route.
+7. Verifies the airplane’s position within 3 nautical miles of the flight-planned route.
+8. Arrives at the en route checkpoints within 5 minutes of the initial or revised ETA and provides a destination estimate.
+9. Maintains the appropriate altitude, ±200 feet and headings, ±15°.
+enddisc
+task
+Task B: Navigation Systems and Radar Services (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to navigation systems and radar services.
+2. Demonstrates the ability to use an airborne electronic navigation system.
+3. Locates the airplane’s position using the navigation system.
+4. Intercepts and tracks a given course, radial, or bearing, as appropriate.
+5. Recognizes and describes the indication of station passage, if appropriate.
+6. Recognizes signal loss and takes appropriate action.55 FAA-S-8081-14B
+7. Uses proper communication procedures when utilizing radar services.
+8. Maintains the appropriate altitude, ±200 feet and headings ±15°.
+enddisc
+task
+Task C: Diversion (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to diversion.
+2. Selects an appropriate alternate airport and route.
+3. Makes an accurate estimate of heading, groundspeed, arrival time, and fuel consumption to the alternate airport.
+4. Maintains the appropriate altitude, ±200 feet and heading, ±15°.
+enddisc
+task
+Task D: Lost Procedures (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to lost procedures.
+2. Selects an appropriate course of action.
+3. Maintains an appropriate heading and climbs, if necessary.
+4. Identifies prominent landmarks.
+5. Uses navigation systems/facilities and/or contacts an ATC facility for assistance, as appropriate.
+enddisc
+
+VIII. Slow Flight and Stalls
+task
+Task A: Maneuvering During Slow Flight (ASEL and ASES) 
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to maneuvering during slow flight.
+2. Selects an entry altitude that will allow the task to be completed no lower than 1,500 feet AGL.
+3. Establishes and maintains an airspeed at which any further increase in angle of attack, increase in load factor, or reduction in power, would result in an immediate stall.
+4. Accomplishes coordinated straight-and-level flight, turns, climbs, and descents with landing gear and flap configurations specified by the examiner.
+5. Divides attention between airplane control and orientation.
+6. Maintains the specified altitude, ±100 feet; specified heading, ±10°; airspeed, +10/−0 knots; and specified angle of bank, ±10°.
+enddisc
+task
+Task B: Power-Off Stalls (ASEL and ASES) 
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to power-off stalls.
+2. Selects an entry altitude that allows the task to be completed no lower than 1,500 feet AGL.
+3. Establishes a stabilized descent in the approach or landing configuration, as specified by the examiner.
+4. Transitions smoothly from the approach or landing attitude to a pitch attitude that will induce a stall.
+5. Maintains a specified heading, ±10°, if in straight flight; maintains a specified angle of bank not to exceed 20°, ±10°; if in turning flight, while inducing the stall.
+6. Recognizes and recovers promptly after a fully developed stall occurs.57 FAA-S-8081-14B Change 3 (May 2, 2012)
+7. Retracts the flaps to the recommended setting; retracts the landing gear, if retractable, after a positive rate of climb is established.
+8. Accelerates to VX or VY speed before the final flap retraction; returns to the altitude, heading, and airspeed specified by the examiner.
+enddisc
+task
+Task C: Power-On Stalls (ASEL and ASES)
+note
+In some high performance airplanes, the power setting may have to be reduced below the practical test standards guideline power setting to prevent excessively high pitch attitudes (greater than 30° nose up).
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to power-on stalls.
+2. Selects an entry altitude that allows the task to be completed no lower than 1,500 feet AGL.
+3. Establishes the takeoff or departure configuration as specified by the examiner. Sets power to no less than 65 percent available power.
+4. Transitions smoothly from the takeoff or departure attitude to the pitch attitude that will induce a stall.
+5. Maintains a specified heading, ±10°, if in straight flight; maintains a specified angle of bank not to exceed 20°, ±10°, if in turning flight, while inducing the stall.
+6. Recognizes and recovers promptly after a fully developed stall occurs.
+7. Retracts the flaps to the recommended setting; retracts the landing gear if retractable, after a positive rate of climb is established.
+8. Accelerates to VX or VY speed before the final flap retraction; returns to the altitude, heading, and airspeed specified by the examiner.
+enddisc
+task
+Task D: Spin Awareness (ASEL and ASES) 
+To determine that the applicant exhibits satisfactory knowledge of the elements related to spin awareness by explaining:
+disc
+1. Aerodynamic factors related to spins.
+2. Flight situations where unintentional spins may occur.
+3. Procedures for recovery from unintentional spins.
+enddisc
+
+IX. Basic Instrument Maneuvers
+task
+Task A: Straight-and-Level Flight (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to attitude instrument flying during straight-and-level flight.
+2. Maintains straight-and-level flight solely by reference to instruments using proper instrument cross-check and interpretation, and coordinated control application.
+3. Maintains altitude, ±200 feet; heading, ±20°; and airspeed, ±10 knots.
+enddisc
+task
+Task B: Constant Airspeed Climbs (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to attitude instrument flying during constant airspeed climbs.
+2. Establishes the climb configuration specified by the examiner.
+3. Transitions to the climb pitch attitude and power setting on an assigned heading using proper instrument cross-check and interpretation, and coordinated control application.
+4. Demonstrates climbs solely by reference to instruments at a constant airspeed to specific altitudes in straight flight and turns.
+5. Levels off at the assigned altitude and maintains that altitude, ±200 feet; maintains heading, ±20°; maintains airspeed, ±10 knots.
+enddisc
+task
+Task C: Constant Airspeed Descents (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to attitude instrument flying during constant airspeed descents.
+2. Establishes the descent configuration specified by the examiner.FAA-S-8081-14B 60
+3. Transitions to the descent pitch attitude and power setting on an assigned heading using proper instrument crosscheck and interpretation, and coordinated control application.
+4. Demonstrates descents solely by reference to instruments at a constant airspeed to specific altitudes in straight flight and turns.
+5. Levels off at the assigned altitude and maintains that altitude, ±200 feet; maintains heading, ±20°; maintains airspeed, ±10 knots.
+enddisc
+task
+Task D: Turns to Headings (ASEL and ASES) 
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to attitude instrument flying during turns to headings.
+2. Transitions to the level-turn attitude using proper instrument cross-check and interpretation, and coordinated control application.
+3. Demonstrates turns to headings solely by reference to instruments; maintains altitude, ±200 feet; maintains a standard rate turn and rolls out on the assigned heading, ± 10°; maintains airspeed, ±10 knots.
+enddisc
+task
+Task E: Recovery from Unusual Flight Attitudes (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to attitude instrument flying during unusual attitudes.
+2. Recognizes unusual flight attitudes solely by reference to instruments; recovers promptly to a stabilized level flight attitude using proper instrument cross-check and interpretation and smooth, coordinated control application in the correct sequence.
+enddisc
+task 
+Task F: Radio Communications, Navigation Systems/Facilities, and Radar Services (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to radio communications, navigation systems/facilities, and radar services available for use during flight solely by reference to instruments.
+2. Selects the proper frequency and identifies the appropriate facility.
+3. Follows verbal instructions and/or navigation systems/facilities for guidance.
+4. Determines the minimum safe altitude.
+5. Maintains altitude, ±200 feet; maintains heading, ±20°; maintains airspeed, ±10 knots.
+enddisc
+
+X. Emergency Operation
+task
+Task A: Emergency Descent (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to an emergency descent.
+2. Recognizes situations, such as depressurization, cockpit smoke, and/or fire that require an emergency descent.
+3. Establishes the appropriate airspeed and configuration for the emergency descent.
+4. Exhibits orientation, division of attention, and proper planning.
+5. Maintains positive load factors during the descent.
+6. Completes appropriate checklists.
+enddisc
+task
+Task B: Emergency Approach and Landing (Simulated) (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to emergency approach and landing procedures.
+2. Analyzes the situation and selects an appropriate course of action.
+3. Establishes and maintains the recommended best-glide airspeed, ±10 knots.
+4. Selects a suitable landing area.
+5. Plans and follows a flight pattern to the selected landing area considering altitude, wind, terrain, and obstructions.
+6. Prepares for landing, or go-around, as specified by the examiner.
+7. Follows the appropriate checklist.
+enddisc
+task
+Task C: Systems and Equipment Malfunctions (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to system and equipment malfunctions appropriate to the airplane provided for the practical test.
+2. Analyzes the situation and takes appropriate action for simulated emergencies appropriate to the airplane provided for the practical test for at least three of the following—
+subdisc
+a. partial or complete power loss.
+b. engine roughness or overheat.
+c. carburetor or induction icing.
+d. loss of oil pressure.
+e. fuel starvation.
+f. electrical malfunction.
+g. vacuum/pressure, and associated flight instruments malfunction.
+h. pitot/static system malfunction.
+i. landing gear or flap malfunction.
+j. inoperative trim.
+k. inadvertent door or window opening.
+l. structural icing.
+m. smoke/fire/engine compartment fire.
+n. any other emergency appropriate to the airplane.
+disc
+3. Follows the appropriate checklist or procedure.
+enddisc
+task
+Task D: Emergency Equipment and Survival Gear (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to emergency equipment and survival gear appropriate to the airplane and environment encountered during flight.
+2. Identifies appropriate equipment that should be onboard the airplane.
+enddisc
+
+XI. Night Operation
+task
+Task A: Night Preparation (ASEL and ASES)
+To determine that the applicant exhibits satisfactory knowledge of the elements related to night operations by explaining:
+disc
+1. Physiological aspects of night flying as it relates to vision.
+2. Lighting systems identifying airports, runways, taxiways and obstructions, and pilot controlled lighting.
+3. Airplane lighting systems.
+4. Personal equipment essential for night flight.
+5. Night orientation, navigation, and chart reading techniques.
+6. Safety precautions and emergencies unique to night flying.
+7. Somatogravic illusion and black hole approach illusion.
+enddisc
+
+XII. Postflight Procedures
+note
+The examiner shall select Task A and for ASES applicants at least one other Task. 
+task
+Task A: After Landing, Parking, and Securing (ASEL and ASES)
+To determine that the applicant:
+disc
+1. Exhibits satisfactory knowledge of the elements related to after landing, parking, and securing procedures.
+2. Maintains directional control after touchdown while decelerating to an appropriate speed.
+3. Observes runway hold lines and other surface control markings and lighting.
+4. Parks in an appropriate area, considering the safety of nearby persons and property.
+5. Follows the appropriate procedure for engine shutdown.
+6. Completes the appropriate checklist.
+7. Conducts an appropriate postflight inspection and secures the aircraft.
+enddisc
+task
+Task B: Anchoring (ASES)
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to anchoring.
+2. Selects a suitable area for anchoring, considering seaplane movement, water depth, tide, wind, and weather changes.
+3. Uses an adequate number of anchors and lines of sufficient strength and length to ensure the seaplane’s security.
+enddisc
+task
+Task C: Docking and Mooring (ASES)
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to docking and mooring.FAA-S-8081-14B 66
+2. Approaches the dock or mooring buoy in the proper direction considering speed, hazards, wind, and water current.
+3. Ensures seaplane security.
+enddisc
+task
+Task D: Ramping/Beaching (ASES)
+To determine that the applicant:
+ses
+disc
+1. Exhibits satisfactory knowledge of the elements related to ramping/beaching.
+2. Approaches the ramp/beach considering persons and property, in the proper attitude and direction, at a safe speed, considering water depth, tide, current and wind.
+3. Ramps/beaches and secures the seaplane in a manner that will protect it from the harmful effect of wind, waves, and changes in water level.
+enddisc
